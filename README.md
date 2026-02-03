@@ -1,6 +1,6 @@
 # Image_Acqusition-_using_Web_Camera
 ## Name: HASNA MUBARAK AZEEM
-## Register no: 212223240144
+## Register no: 212223240052
 
 ## Aim:
 
